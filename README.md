@@ -18,10 +18,9 @@ pkg install git
 
 rm -rf Rendom
 
-git clone🥰
-https://github.com/💚MdJihad-505/🥱Rendom
+git clone
+https://github.com/MdJihad-505/Rendom
 
-
-cd Rendom 🤫
+cd Rendom 
 
 python Rendom.py
